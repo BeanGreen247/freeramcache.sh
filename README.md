@@ -1,5 +1,6 @@
 # freeramcache.sh
 A script that clears RAM-Cache and Swap
+
 To run the script make it executable
 ```
 chmod +x freeramcache.sh
